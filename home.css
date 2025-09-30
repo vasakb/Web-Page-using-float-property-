@@ -1,0 +1,163 @@
+.nav{
+    
+    height: 68px;
+    width: 100%;
+    color: white;
+    background: linear-gradient(to right,rgb(0, 89, 255),rgb(61, 212, 229));
+}
+body{
+    width: 70%;
+    margin: auto;
+}
+.content{
+    padding-left: 13px;
+}
+
+.content p{
+    font-size: 21px;
+    margin-right: 7px;
+}
+
+.text{
+    float: left;
+    
+    line-height: 0.7;
+    margin-top: 5px;
+    margin-left: 15px;
+
+
+}
+.text h3{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.button{
+    float: right;
+    border: 0.5px solid rgb(102, 0, 255);
+    margin-right: 20px;
+    margin-top: 15px;
+    font-weight: bold;
+    background-color: rgb(38, 138, 238);
+    padding: 10px;
+    border-radius: 16px;
+
+}
+.main{
+    border: 2px solid black;
+    height: 500px;
+}
+
+.content{
+    
+    width: 25%;
+    float:left;
+    height: 70%;
+    margin-top: 10px;
+    margin-left: -249px;
+    background-color: #ece8e8;
+    
+
+}
+.items{
+    float: right;
+    
+    width: 70%;
+    height: 100%;
+}
+
+
+.child1 p{
+    
+    color: grey;
+}
+.child h3{
+    margin-top: 4px;
+    line-height: 0.01px;
+}
+
+.child2{
+    
+    height: 310px;
+}
+.gc1{
+    
+    width: 32%;
+    border: 2px  ;
+    border-radius: 5px;
+    margin: 3px;
+    float: left;
+    float: top;
+    margin-left: 5px;
+    border: 0.3px solid grey;
+}
+
+.gc2{
+    
+    width: 32%;
+    border: 2px  ;
+    border-radius: 5px;
+    margin: 3px;
+    float: right;
+    margin-left: 5px;
+    border: 0.3px solid grey;
+}
+
+.gc3{
+    
+    width: 32%;
+    border: 2px  ;
+    border-radius: 5px;
+    margin: 3px;
+    float: left;
+    margin-left: 5px;
+    border: 0.3px solid grey;
+}
+
+.gc h3{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: medium;
+
+}
+.gc p{
+    font-size: small;
+    margin-left: 10px;
+}
+
+
+.child3{
+    height: 200px;
+    /* border:2px solid rgb(14, 212, 202); */
+    margin-top: -117px;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    border:2px solid black;
+    float:left;
+    background:linear-gradient(to right, #0f2df1 0%, #03bef2 100%);
+    border-radius: 50%;
+    
+}
+
+.textarea{
+    float:right;
+    width:60%;
+    /* border: 2px solid blue; */
+    padding: 10px;
+    margin-right:93px;
+    font-size: 22px;
+}
+
+.textarea p{
+    font-size: 13px;
+}
+.textarea h5{
+    margin-top: 20px;
+    margin-left: 0px;
+}
+
+
